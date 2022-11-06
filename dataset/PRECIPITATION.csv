@@ -1,0 +1,181 @@
+Entity,Code,Year,PRECIPITATION
+Afghanistan,AFG,2017,327
+Albania,ALB,2017,1485
+Algeria,DZA,2017,89
+Angola,AGO,2017,1010
+Antigua and Barbuda,ATG,2017,1030
+Argentina,ARG,2017,591
+Armenia,ARM,2017,562
+Australia,AUS,2017,534
+Austria,AUT,2017,1110
+Azerbaijan,AZE,2017,447
+Bahamas,BHS,2017,1292
+Bahrain,BHR,2017,83
+Bangladesh,BGD,2017,2666
+Barbados,BRB,2017,1422
+Belarus,BLR,2017,618
+Belgium,BEL,2017,847
+Belize,BLZ,2017,1705
+Benin,BEN,2017,1039
+Bhutan,BTN,2017,2200
+Bolivia,BOL,2017,1146
+Bosnia and Herzegovina,BIH,2017,1028
+Botswana,BWA,2017,416
+Brazil,BRA,2017,1761
+Brunei,BRN,2017,2722
+Bulgaria,BGR,2017,608
+Burkina Faso,BFA,2017,748
+Burundi,BDI,2017,1274
+Cambodia,KHM,2017,1904
+Cameroon,CMR,2017,1604
+Canada,CAN,2017,537
+Cape Verde,CPV,2017,228
+Central African Republic,CAF,2017,1343
+Chad,TCD,2017,322
+Chile,CHL,2017,1522
+China,CHN,2017,645
+Colombia,COL,2017,3240
+Comoros,COM,2017,900
+Congo,COG,2017,1646
+Costa Rica,CRI,2017,2926
+Cote d'Ivoire,CIV,2017,1348
+Croatia,HRV,2017,1113
+Cuba,CUB,2017,1335
+Cyprus,CYP,2017,498
+Czechia,CZE,2017,677
+Democratic Republic of Congo,COD,2017,1543
+Denmark,DNK,2017,703
+Djibouti,DJI,2017,220
+Dominica,DMA,2017,2083
+Dominican Republic,DOM,2017,1410
+Ecuador,ECU,2017,2274
+Egypt,EGY,2017,18.10000038
+El Salvador,SLV,2017,1784
+Equatorial Guinea,GNQ,2017,2156
+Eritrea,ERI,2017,384
+Estonia,EST,2017,626
+Eswatini,SWZ,2017,788
+Ethiopia,ETH,2017,848
+Fiji,FJI,2017,2592
+Finland,FIN,2017,536
+France,FRA,2017,867
+Gabon,GAB,2017,1831
+Gambia,GMB,2017,836
+Georgia,GEO,2017,1026
+Germany,DEU,2017,700
+Ghana,GHA,2017,1187
+Greece,GRC,2017,652
+Guatemala,GTM,2017,1996
+Guinea,GIN,2017,1651
+Guinea-Bissau,GNB,2017,1577
+Guyana,GUY,2017,2387
+Haiti,HTI,2017,1440
+Honduras,HND,2017,1976
+Hungary,HUN,2017,589
+Iceland,ISL,2017,1940
+India,IND,2017,1083
+Indonesia,IDN,2017,2702
+Iran,IRN,2017,228
+Iraq,IRQ,2017,216
+Ireland,IRL,2017,1118
+Israel,ISR,2017,435
+Italy,ITA,2017,832
+Jamaica,JAM,2017,2051
+Japan,JPN,2017,1668
+Jordan,JOR,2017,111
+Kazakhstan,KAZ,2017,250
+Kenya,KEN,2017,630
+Kuwait,KWT,2017,121
+Kyrgyzstan,KGZ,2017,533
+Laos,LAO,2017,1834
+Latvia,LVA,2017,667
+Lebanon,LBN,2017,661
+Lesotho,LSO,2017,788
+Liberia,LBR,2017,2391
+Libya,LBY,2017,56
+Lithuania,LTU,2017,656
+Luxembourg,LUX,2017,934
+Madagascar,MDG,2017,1513
+Malawi,MWI,2017,1181
+Malaysia,MYS,2017,2875
+Maldives,MDV,2017,1972
+Mali,MLI,2017,282
+Malta,MLT,2017,560
+Mauritania,MRT,2017,92
+Mauritius,MUS,2017,2041
+Mexico,MEX,2017,758
+Moldova,MDA,2017,450
+Mongolia,MNG,2017,241
+Morocco,MAR,2017,346
+Mozambique,MOZ,2017,1032
+Myanmar,MMR,2017,2091
+Namibia,NAM,2017,285
+Nepal,NPL,2017,1500
+Netherlands,NLD,2017,778
+New Zealand,NZL,2017,1732
+Nicaragua,NIC,2017,2280
+Niger,NER,2017,151
+Nigeria,NGA,2017,1150
+North Korea,PRK,2017,1054
+North Macedonia,MKD,2017,619
+Norway,NOR,2017,1414
+Oman,OMN,2017,125
+Pakistan,PAK,2017,494
+Panama,PAN,2017,2928
+Papua New Guinea,PNG,2017,3142
+Paraguay,PRY,2017,1130
+Peru,PER,2017,1738
+Philippines,PHL,2017,2348
+Poland,POL,2017,600
+Portugal,PRT,2017,854
+Puerto Rico,PRI,2017,2054
+Qatar,QAT,2017,74
+Romania,ROU,2017,637
+Russia,RUS,2017,460
+Rwanda,RWA,2017,1212
+Saint Kitts and Nevis,KNA,2017,1427
+Saint Lucia,LCA,2017,2301
+Saint Vincent and the Grenadines,VCT,2017,1583
+Samoa,WSM,2017,2880
+Sao Tome and Principe,STP,2017,3200
+Saudi Arabia,SAU,2017,59
+Senegal,SEN,2017,686
+Seychelles,SYC,2017,2330
+Sierra Leone,SLE,2017,2526
+Singapore,SGP,2017,2497
+Slovakia,SVK,2017,824
+Slovenia,SVN,2017,1162
+Solomon Islands,SLB,2017,3028
+Somalia,SOM,2017,282
+South Africa,ZAF,2017,495
+South Korea,KOR,2017,1274
+South Sudan,SSD,2017,900
+Spain,ESP,2017,636
+Sri Lanka,LKA,2017,1712
+Sudan,SDN,2017,250
+Suriname,SUR,2017,2331
+Sweden,SWE,2017,624
+Switzerland,CHE,2017,1537
+Syria,SYR,2017,252
+Tajikistan,TJK,2017,691
+Tanzania,TZA,2017,1071
+Thailand,THA,2017,1622
+Timor,TLS,2017,1500
+Togo,TGO,2017,1168
+Trinidad and Tobago,TTO,2017,2200
+Tunisia,TUN,2017,207
+Turkey,TUR,2017,593
+Turkmenistan,TKM,2017,161
+Uganda,UGA,2017,1180
+Ukraine,UKR,2017,565
+United Arab Emirates,ARE,2017,78
+United Kingdom,GBR,2017,1220
+United States,USA,2017,715
+Uruguay,URY,2017,1300
+Uzbekistan,UZB,2017,206
+Vanuatu,VUT,2017,2000
+Venezuela,VEN,2017,2044
+Vietnam,VNM,2017,1821
+Yemen,YEM,2017,167
+Zambia,ZMB,2017,1020
+Zimbabwe,ZWE,2017,657

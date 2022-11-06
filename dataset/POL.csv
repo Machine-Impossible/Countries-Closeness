@@ -1,0 +1,179 @@
+Entity,Code,Year,POL
+Afghanistan,AFG,2015,1
+Albania,ALB,2015,2
+Algeria,DZA,2015,1
+Angola,AGO,2015,1
+Argentina,ARG,2015,2
+Armenia,ARM,2015,1
+Australia,AUS,2015,3
+Austria,AUT,2015,3
+Azerbaijan,AZE,2015,1
+Bahrain,BHR,2015,0
+Bangladesh,BGD,2015,1
+Barbados,BRB,2015,3
+Belarus,BLR,2015,1
+Belgium,BEL,2015,3
+Benin,BEN,2015,2
+Bhutan,BTN,2015,2
+Bolivia,BOL,2015,2
+Bosnia and Herzegovina,BIH,2015,2
+Botswana,BWA,2015,3
+Brazil,BRA,2015,2
+Bulgaria,BGR,2015,2
+Burkina Faso,BFA,2015,1
+Burundi,BDI,2015,1
+Cambodia,KHM,2015,1
+Cameroon,CMR,2015,1
+Canada,CAN,2015,3
+Cape Verde,CPV,2015,2
+Central African Republic,CAF,2015,1
+Chad,TCD,2015,1
+Chile,CHL,2015,3
+China,CHN,2015,0
+Colombia,COL,2015,2
+Comoros,COM,2015,1
+Congo,COG,2015,1
+Costa Rica,CRI,2015,3
+Cote d'Ivoire,CIV,2015,1
+Croatia,HRV,2015,2
+Cuba,CUB,2015,0
+Cyprus,CYP,2015,3
+Czechia,CZE,2015,3
+Democratic Republic of Congo,COD,2015,1
+Denmark,DNK,2015,3
+Djibouti,DJI,2015,1
+Dominican Republic,DOM,2015,2
+Ecuador,ECU,2015,2
+Egypt,EGY,2015,1
+El Salvador,SLV,2015,2
+Equatorial Guinea,GNQ,2015,1
+Eritrea,ERI,2015,0
+Estonia,EST,2015,3
+Eswatini,SWZ,2015,0
+Ethiopia,ETH,2015,1
+Fiji,FJI,2015,1
+Finland,FIN,2015,3
+France,FRA,2015,3
+Gabon,GAB,2015,1
+Gambia,GMB,2015,1
+Georgia,GEO,2015,2
+Germany,DEU,2015,3
+Ghana,GHA,2015,2
+Greece,GRC,2015,3
+Guatemala,GTM,2015,2
+Guinea,GIN,2015,1
+Guinea-Bissau,GNB,2015,2
+Guyana,GUY,2015,2
+Haiti,HTI,2015,1
+Honduras,HND,2015,1
+Hong Kong,HKG,2015,0
+Hungary,HUN,2015,2
+Iceland,ISL,2015,3
+India,IND,2015,2
+Indonesia,IDN,2015,2
+Iran,IRN,2015,1
+Iraq,IRQ,2015,1
+Ireland,IRL,2015,3
+Israel,ISR,2015,3
+Italy,ITA,2015,3
+Jamaica,JAM,2015,2
+Japan,JPN,2015,3
+Jordan,JOR,2015,0
+Kazakhstan,KAZ,2015,1
+Kenya,KEN,2015,2
+Kosovo,OWID_KOS,2015,2
+Kuwait,KWT,2015,1
+Kyrgyzstan,KGZ,2015,1
+Laos,LAO,2015,0
+Latvia,LVA,2015,3
+Lebanon,LBN,2015,2
+Lesotho,LSO,2015,2
+Liberia,LBR,2015,2
+Libya,LBY,2015,0
+Lithuania,LTU,2015,3
+Luxembourg,LUX,2015,3
+Madagascar,MDG,2015,1
+Malawi,MWI,2015,2
+Malaysia,MYS,2015,1
+Maldives,MDV,2015,1
+Mali,MLI,2015,2
+Malta,MLT,2015,2
+Mauritania,MRT,2015,1
+Mauritius,MUS,2015,3
+Mexico,MEX,2015,2
+Moldova,MDA,2015,2
+Mongolia,MNG,2015,2
+Montenegro,MNE,2015,1
+Morocco,MAR,2015,0
+Mozambique,MOZ,2015,1
+Myanmar,MMR,2015,1
+Namibia,NAM,2015,2
+Nepal,NPL,2015,2
+Netherlands,NLD,2015,3
+New Zealand,NZL,2015,3
+Nicaragua,NIC,2015,1
+Niger,NER,2015,2
+Nigeria,NGA,2015,2
+North Korea,PRK,2015,0
+North Macedonia,MKD,2015,1
+Norway,NOR,2015,3
+Oman,OMN,2015,0
+Pakistan,PAK,2015,1
+Palestine/Gaza,,2015,0
+Panama,PAN,2015,2
+Papua New Guinea,PNG,2015,1
+Paraguay,PRY,2015,2
+Peru,PER,2015,2
+Philippines,PHL,2015,2
+Poland,POL,2015,3
+Portugal,PRT,2015,3
+Qatar,QAT,2015,0
+Romania,ROU,2015,2
+Russia,RUS,2015,1
+Rwanda,RWA,2015,1
+Sao Tome and Principe,STP,2015,2
+Saudi Arabia,SAU,2015,0
+Senegal,SEN,2015,2
+Serbia,SRB,2015,1
+Seychelles,SYC,2015,1
+Sierra Leone,SLE,2015,2
+Singapore,SGP,2015,1
+Slovakia,SVK,2015,2
+Slovenia,SVN,2015,3
+Solomon Islands,SLB,2015,2
+Somalia,SOM,2015,0
+Somaliland,OWID_SML,2015,1
+South Africa,ZAF,2015,2
+South Korea,KOR,2015,3
+South Sudan,SSD,2015,0
+Spain,ESP,2015,3
+Sri Lanka,LKA,2015,2
+Sudan,SDN,2015,1
+Suriname,SUR,2015,2
+Sweden,SWE,2015,3
+Switzerland,CHE,2015,3
+Syria,SYR,2015,0
+Taiwan,TWN,2015,3
+Tajikistan,TJK,2015,1
+Tanzania,TZA,2015,1
+Thailand,THA,2015,0
+Timor,TLS,2015,2
+Togo,TGO,2015,1
+Trinidad and Tobago,TTO,2015,3
+Tunisia,TUN,2015,2
+Turkey,TUR,2015,1
+Turkmenistan,TKM,2015,1
+Uganda,UGA,2015,1
+Ukraine,UKR,2015,1
+United Arab Emirates,ARE,2015,0
+United Kingdom,GBR,2015,3
+United States,USA,2015,3
+Uruguay,URY,2015,3
+Uzbekistan,UZB,2015,0
+Vanuatu,VUT,2015,2
+Venezuela,VEN,2015,1
+Vietnam,VNM,2015,1
+Yemen,YEM,2015,1
+Zambia,ZMB,2015,1
+Zanzibar,OWID_ZAN,2015,1
+Zimbabwe,ZWE,2015,1
